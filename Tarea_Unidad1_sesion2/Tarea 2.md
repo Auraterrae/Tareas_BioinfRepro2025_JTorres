@@ -16,7 +16,7 @@ git clone https://github.com/u-genoma/BioinfinvRepro.git --branch master --singl
 
 #### 4. Agregamos al profesor Ricardo como colaborador del repositorio para que pueda supervisar el trabajo
 
-![aa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/cae84eb899dd1dc522f2fec31959ce734e075de2/Tarea_Unidad1_sesion2/imagen1.png)
+![aa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/cae84eb899dd1dc522f2fec31959ce734e075de2/Tarea_Unidad1_sesion2/imagen2.png)
 
 #### 5.  Analizamos el script de pipeline propuesto de ejemplo
 
