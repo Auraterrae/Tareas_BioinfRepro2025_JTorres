@@ -6,7 +6,7 @@
 
 #### 2. Luego, establecemos el directorio en el que queremos trabajar dentro de git bash
 
-![a](Tarea_Unidad1_sesion2/imagen1.png)
+![a](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/cae84eb899dd1dc522f2fec31959ce734e075de2/Tarea_Unidad1_sesion2/imagen1.png)
 
 #### 3. Clonamos el repositorio del curso como se solicita con el siguiente prompt
 
@@ -16,7 +16,7 @@ git clone https://github.com/u-genoma/BioinfinvRepro.git --branch master --singl
 
 #### 4. Agregamos al profesor Ricardo como colaborador del repositorio para que pueda supervisar el trabajo
 
-![aa](Tarea_Unidad1_sesion2/imagen2.png)
+![aa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/cae84eb899dd1dc522f2fec31959ce734e075de2/Tarea_Unidad1_sesion2/imagen1.png)
 
 #### 5.  Analizamos el script de pipeline propuesto de ejemplo
 
