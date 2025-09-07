@@ -1,6 +1,6 @@
 # Tarea Bioinformática Reproductiva - Ejercicios en R
 
-**Cabe destacar que el ejercicio 9 está desarrollado en codificación markdown, aunque no fuese la más optima para leer el archivo, se puede correr el codigo sin inconvenientes**
+**Cabe destacar que el ejercicio 9 está desarrollado en codificación *"macintosh"*, aunque no fuese la más optima para leer el archivo, se puede correr el codigo sin inconvenientes**
 
 ## Ejercicio 1: Logaritmo base 10 y suma
 
