@@ -1,5 +1,7 @@
 # Tarea Bioinformática Reproductiva - Ejercicios en R
 
+**Cabe destacar que el ejercicio 9 está desarrollado en codificación markdown, aunque no fuese la más optima para leer el archivo, se puede correr el codigo sin inconvenientes**
+
 ## Ejercicio 1: Logaritmo base 10 y suma
 
 Crear una variable con el logaritmo base 10 de 50 y sumarlo a otra variable cuyo valor sea igual a 5.
