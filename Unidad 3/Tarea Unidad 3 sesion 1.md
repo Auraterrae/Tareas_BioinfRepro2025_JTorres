@@ -46,14 +46,14 @@
    
    Tal como podemos observar en el diagrama de calidad de R1 y R2 crudo
    
-   [(imagen 1)](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/2bb79fbd8e140c476951619fe0517eb1085ec398/Unidad%203/Q_raw_S13_R1.jpg)
+   ![imagen 1](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/2bb79fbd8e140c476951619fe0517eb1085ec398/Unidad%203/Q_raw_S13_R1.jpg)
    
-   [(imagen3)](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/5c318822ea5e6499b8753861dcb3c2cefd4f8393/Unidad%203/Q_raw_S13_R2.jpg))
+   ![imagen3](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/5c318822ea5e6499b8753861dcb3c2cefd4f8393/Unidad%203/Q_raw_S13_R2.jpg)
    
    y filtrado
    
-   [(imagen 2)](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/2bb79fbd8e140c476951619fe0517eb1085ec398/Unidad%203/Q_filter_S13_R1.jpg)
+   ![imagen 2](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/2bb79fbd8e140c476951619fe0517eb1085ec398/Unidad%203/Q_filter_S13_R1.jpg)
    
-   [(imagen4)](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/5c318822ea5e6499b8753861dcb3c2cefd4f8393/Unidad%203/Q_filter_S13_R2.jpg)
+   ![imagen4](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/5c318822ea5e6499b8753861dcb3c2cefd4f8393/Unidad%203/Q_filter_S13_R2.jpg)
    
    los valores del indice de calidad interpretado versus observado coinciden bastante, ademas de haber una mejora en la calidad general de las lecturas en la muestra filtrada, para este caso la figura de calidad por base es muy util ya que hace un gráfico de cajas con el promedio y la desviación estándar de los valores de calidad para cada una de las bases 
