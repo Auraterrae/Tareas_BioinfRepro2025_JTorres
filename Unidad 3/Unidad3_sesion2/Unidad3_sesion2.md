@@ -36,7 +36,7 @@ Explorar un estudio real disponible en [cBioPortal](https://www.cbioportal.org) 
   
   > Firehose Legacy
 
-aa!(https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/fed9570216b4087ba9e61790207e68274d53d5a5/Unidad%203/Unidad3_sesion2/pesta%C3%B1a_summary.png)
+![aaa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/fed9570216b4087ba9e61790207e68274d53d5a5/Unidad%203/Unidad3_sesion2/pesta%C3%B1a_summary.png)
 
 ---
 
@@ -93,7 +93,7 @@ aa!(https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/fed9570216
      
      > 31 - 32 años
 
-[Clinical data]!(https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/fed9570216b4087ba9e61790207e68274d53d5a5/Unidad%203/Unidad3_sesion2/pesta%C3%B1a_clinical.png)
+![a](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/fed9570216b4087ba9e61790207e68274d53d5a5/Unidad%203/Unidad3_sesion2/pesta%C3%B1a_clinical.png)
 
 4. **Interpreta los resultados:**
    
