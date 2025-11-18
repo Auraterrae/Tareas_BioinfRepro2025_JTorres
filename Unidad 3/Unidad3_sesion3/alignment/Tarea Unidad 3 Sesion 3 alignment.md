@@ -36,31 +36,25 @@ scp -r bioinfo1@genoma.med.uchile.cl:~/jtorres/Tareas_BioinfRepro2025_JTorres/Un
 
 Figura 1. Coverage histogram: siendo el mayor valor de cobertura igual a cero, significa que hay regiones que no fueron cubiertas 
 
-
-
-
+![a](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/855771f4add25f73bfeccfc26eac9bf96864a448/Unidad%203/Unidad3_sesion3/alignment/coverage%20histogram.png)
 
 
 
 Figura 2. Insert Size Histogram: la media de longitud de las secuencias están entre 225 y 275 pares de bases, lo que indica uniformidad dentro de la librería
 
-
-
-
+![aa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/855771f4add25f73bfeccfc26eac9bf96864a448/Unidad%203/Unidad3_sesion3/alignment/insert%20size%20histogram.png)
 
 
 
 Figura 3. Mapping quality histogram: La mayoria de las lecturas tienen una calidad de 60, por lo que es muy poco probable que esten mal alineadas
 
-
-
-
+![aaa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/855771f4add25f73bfeccfc26eac9bf96864a448/Unidad%203/Unidad3_sesion3/alignment/Mapping%20quality%20histogram.png)
 
 
 
 Figura 4. GC content distribution: Existe una gran variación en la abundacia de GC significa que existe un sesgo en la amplificación 
 
-
+![aaaa](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/855771f4add25f73bfeccfc26eac9bf96864a448/Unidad%203/Unidad3_sesion3/alignment/GC%20conteng%20distribution.png)
 
 6.  Conclusiones: Aunque se evindencia en las figuras que hay regiones que no fueron cubiertas y hay un sesgo de amplificación, se tiene un porcentaje de lecturas de un 99.9 y un promedio de la calidad de 58.8, lo que nos permite concluir que la alineación fue exitosa 
 
