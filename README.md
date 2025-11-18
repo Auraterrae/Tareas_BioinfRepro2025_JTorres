@@ -19,3 +19,7 @@ This repository is dedicated to the publication of the tasks delegated on the co
 ### -    Unit 3
 
 :white_check_mark:    [Task 7](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/3d642e438ed239f3424cd4078c5fa058a6a12481/Unidad%203/Tarea%20Unidad%203%20sesion%201.md)
+
+:white_check_mark:    [Task 8.1](https://github.com/Auraterrae/Tareas_BioinfRepro2025_JTorres/blob/b012a116b583564510f21349eac1da66877cefb1/Unidad%203/Unidad3_sesion3/alignment/Tarea%20Unidad%203%20Sesion%203%20alignment.md)
+
+
